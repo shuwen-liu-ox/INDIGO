@@ -109,6 +109,18 @@ Finally, to check how many rules have been captured by the model, run the follow
 The number of rules captured by the model will be printed on the screen.
 
 
+## Acknowledgement
 
-
+Please cite the following paper as the reference if you use the INDIGO-BM dataset or the implementation of INDIGO:
+```
+@inproceedings{INDIGO21,
+  author    = {Shuwen Liu and
+               Bernardo Cuenca Grau and
+               Ian Horrocks and
+               Egor V. Kostylev},
+  title     = {INDIGO: GNN-Based Inductive Knowledge Graph Completion Using Pair-Wise Encoding},
+  booktitle = {{NeurIPS}},
+  year      = {2021}
+}
+```
 
