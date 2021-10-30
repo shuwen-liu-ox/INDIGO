@@ -1,0 +1,4 @@
+a	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	b
+b	/dataworld/gardening_hint/split_to	a
+a	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	b
+b	/dataworld/gardening_hint/split_to	c

@@ -1,0 +1,4 @@
+a	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	b
+b	/film/film/release_date_s./film/film_regional_release_date/film_release_region	a
+a	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	b
+b	/film/film/release_date_s./film/film_regional_release_date/film_release_region	c

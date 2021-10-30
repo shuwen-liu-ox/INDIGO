@@ -1,0 +1,4 @@
+a	/music/artist/track_contributions./music/track_contribution/role	b
+b	/music/group_member/membership./music/group_membership/group	a
+a	/music/artist/track_contributions./music/track_contribution/role	b
+b	/music/group_member/membership./music/group_membership/group	c

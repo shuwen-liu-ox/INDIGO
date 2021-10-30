@@ -1,0 +1,2 @@
+a	/soccer/football_team/current_roster./soccer/football_roster_position/position	a	1
+a	/soccer/football_team/current_roster./soccer/football_roster_position/position	c	1

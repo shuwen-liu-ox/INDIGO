@@ -1,0 +1,2 @@
+a	concept:headquarteredin	a	1
+a	concept:headquarteredin	b	1

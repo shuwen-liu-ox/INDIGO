@@ -1,0 +1,2 @@
+a	/soccer/football_player/current_team./sports/sports_team_roster/team	a
+a	/soccer/football_player/current_team./sports/sports_team_roster/team	b

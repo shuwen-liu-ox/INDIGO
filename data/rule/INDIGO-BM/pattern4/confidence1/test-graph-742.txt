@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/education/educational_institution/school_type	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/education/educational_institution/school_type	c

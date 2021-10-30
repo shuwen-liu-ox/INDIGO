@@ -1,0 +1,4 @@
+a	/location/administrative_division/first_level_division_of	b
+b	/language/human_language/countries_spoken_in	a
+a	/location/administrative_division/first_level_division_of	b
+b	/language/human_language/countries_spoken_in	c

@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/base/biblioness/bibs_location/country	a
+a	/dataworld/gardening_hint/split_to	b
+b	/base/biblioness/bibs_location/country	c

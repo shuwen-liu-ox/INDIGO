@@ -1,0 +1,2 @@
+a	/base/popstra/celebrity/dated./base/popstra/dated/participant	a	1
+a	/base/popstra/celebrity/dated./base/popstra/dated/participant	b	1

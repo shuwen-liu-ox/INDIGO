@@ -1,0 +1,4 @@
+a	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a
+a	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c

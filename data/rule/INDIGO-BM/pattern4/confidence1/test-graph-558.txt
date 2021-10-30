@@ -1,0 +1,4 @@
+a	/location/hud_county_place/place	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	a
+a	/location/hud_county_place/place	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	c

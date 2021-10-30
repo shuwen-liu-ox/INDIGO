@@ -1,0 +1,4 @@
+a	/location/country/capital	a
+a	/location/country/second_level_divisions	a
+a	/location/country/capital	b
+a	/location/country/second_level_divisions	b

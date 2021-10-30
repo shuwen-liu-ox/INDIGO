@@ -1,0 +1,4 @@
+a	concept:organizationheadquarteredincity	a
+a	concept:newspaperincity	a
+a	concept:organizationheadquarteredincity	b
+a	concept:newspaperincity	b

@@ -1,0 +1,4 @@
+a	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	b
+b	/film/film/runtime./film/film_cut/film_release_region	a
+a	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	b
+b	/film/film/runtime./film/film_cut/film_release_region	c

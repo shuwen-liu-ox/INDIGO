@@ -1,0 +1,4 @@
+a	/time/event/locations	b
+b	/tv/tv_program/country_of_origin	a
+a	/time/event/locations	b
+b	/tv/tv_program/country_of_origin	c

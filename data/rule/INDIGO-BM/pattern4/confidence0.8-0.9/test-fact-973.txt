@@ -1,0 +1,2 @@
+a	/people/profession/specialization_of	a	1
+a	/people/profession/specialization_of	c	1

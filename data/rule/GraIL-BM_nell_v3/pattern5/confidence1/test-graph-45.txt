@@ -1,0 +1,4 @@
+a	concept:coachesteam	a
+a	concept:athleteplaysforteam	a
+a	concept:coachesteam	b
+a	concept:athleteplaysforteam	b

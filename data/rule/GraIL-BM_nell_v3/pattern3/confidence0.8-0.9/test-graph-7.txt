@@ -1,0 +1,2 @@
+a	concept:countryalsoknownas	a
+a	concept:countryalsoknownas	b

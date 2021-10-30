@@ -1,0 +1,4 @@
+a	concept:agentcreated	b
+b	concept:agentcreated	a
+a	concept:agentcreated	b
+b	concept:agentcreated	c

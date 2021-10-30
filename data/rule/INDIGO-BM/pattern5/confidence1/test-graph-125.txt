@@ -1,0 +1,4 @@
+a	/film/film/cinematography	a
+a	/film/film/film_production_design_by	a
+a	/film/film/cinematography	b
+a	/film/film/film_production_design_by	b

@@ -1,0 +1,4 @@
+a	concept:locationlocatedwithinlocation	a
+a	concept:subpartof	a
+a	concept:locationlocatedwithinlocation	b
+a	concept:subpartof	b

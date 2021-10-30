@@ -1,0 +1,4 @@
+a	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	b
+b	/dataworld/gardening_hint/split_to	a
+a	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	b
+b	/dataworld/gardening_hint/split_to	c

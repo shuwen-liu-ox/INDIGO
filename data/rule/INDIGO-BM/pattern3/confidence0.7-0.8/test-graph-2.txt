@@ -1,0 +1,2 @@
+a	/music/performance_role/regular_performances./music/group_membership/role	a
+a	/music/performance_role/regular_performances./music/group_membership/role	b

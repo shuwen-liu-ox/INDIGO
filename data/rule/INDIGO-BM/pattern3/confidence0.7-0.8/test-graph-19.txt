@@ -1,0 +1,2 @@
+a	/people/person/sibling_s./people/sibling_relationship/sibling	a
+a	/people/person/sibling_s./people/sibling_relationship/sibling	b

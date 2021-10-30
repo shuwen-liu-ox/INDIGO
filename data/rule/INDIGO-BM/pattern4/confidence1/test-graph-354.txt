@@ -1,0 +1,4 @@
+a	/location/hud_county_place/place	b
+b	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	a
+a	/location/hud_county_place/place	b
+b	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	c

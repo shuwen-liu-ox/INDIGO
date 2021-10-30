@@ -1,0 +1,4 @@
+a	/people/ethnicity/geographic_distribution	b
+b	/dataworld/gardening_hint/split_to	a
+a	/people/ethnicity/geographic_distribution	b
+b	/dataworld/gardening_hint/split_to	c

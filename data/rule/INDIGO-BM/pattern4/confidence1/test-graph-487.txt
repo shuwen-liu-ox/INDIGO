@@ -1,0 +1,4 @@
+a	/tv/tv_program/languages	b
+b	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	a
+a	/tv/tv_program/languages	b
+b	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	c

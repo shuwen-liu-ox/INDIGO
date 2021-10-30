@@ -1,0 +1,4 @@
+a	/education/educational_degree/people_with_this_degree./education/education/institution	b
+b	/dataworld/gardening_hint/split_to	a
+a	/education/educational_degree/people_with_this_degree./education/education/institution	b
+b	/dataworld/gardening_hint/split_to	c

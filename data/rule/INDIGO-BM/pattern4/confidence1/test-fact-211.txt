@@ -1,0 +1,2 @@
+a	/medicine/disease/notable_people_with_this_condition	a	1
+a	/medicine/disease/notable_people_with_this_condition	c	1

@@ -1,0 +1,4 @@
+a	/people/person/sibling_s./people/sibling_relationship/sibling	b
+b	/film/film/executive_produced_by	a
+a	/people/person/sibling_s./people/sibling_relationship/sibling	b
+b	/film/film/executive_produced_by	c

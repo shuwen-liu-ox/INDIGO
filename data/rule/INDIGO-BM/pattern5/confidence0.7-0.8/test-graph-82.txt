@@ -1,0 +1,4 @@
+a	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	a
+a	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	a
+a	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	b
+a	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	b

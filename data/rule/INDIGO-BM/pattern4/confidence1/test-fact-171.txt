@@ -1,0 +1,2 @@
+a	/location/country/capital	a	1
+a	/location/country/capital	c	1

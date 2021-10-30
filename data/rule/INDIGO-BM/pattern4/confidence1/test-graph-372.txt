@@ -1,0 +1,4 @@
+a	/people/person/gender	b
+b	/base/americancomedy/celebrity_impressionist/celebrities_impersonated	a
+a	/people/person/gender	b
+b	/base/americancomedy/celebrity_impressionist/celebrities_impersonated	c

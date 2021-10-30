@@ -1,0 +1,4 @@
+a	/education/educational_institution/campuses	b
+b	/organization/role/leaders./organization/leadership/organization	a
+a	/education/educational_institution/campuses	b
+b	/organization/role/leaders./organization/leadership/organization	c

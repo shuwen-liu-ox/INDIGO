@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	c

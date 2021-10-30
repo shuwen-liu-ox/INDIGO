@@ -1,0 +1,4 @@
+a	/tv/tv_program/country_of_origin	b
+b	/film/film_set_designer/film_sets_designed	a
+a	/tv/tv_program/country_of_origin	b
+b	/film/film_set_designer/film_sets_designed	c

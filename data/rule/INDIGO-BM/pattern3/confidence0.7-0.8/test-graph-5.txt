@@ -1,0 +1,2 @@
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	a
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	b

@@ -1,0 +1,4 @@
+a	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	a
+a	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	a
+a	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	b
+a	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	b

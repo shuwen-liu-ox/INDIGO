@@ -1,0 +1,4 @@
+a	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	b
+b	/film/film/distributors./film/film_film_distributor_relationship/region	a
+a	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	b
+b	/film/film/distributors./film/film_film_distributor_relationship/region	c

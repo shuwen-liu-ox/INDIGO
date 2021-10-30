@@ -1,0 +1,2 @@
+a	concept:worksfor	a	1
+a	concept:worksfor	b	1

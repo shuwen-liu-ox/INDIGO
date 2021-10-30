@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/film/actor/film./film/performance/film	a
+a	/dataworld/gardening_hint/split_to	b
+b	/film/actor/film./film/performance/film	c

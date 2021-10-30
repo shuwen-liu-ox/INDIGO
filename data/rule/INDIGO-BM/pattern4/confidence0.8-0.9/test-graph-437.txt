@@ -1,0 +1,4 @@
+a	/people/person/languages	b
+b	/film/film/story_by	a
+a	/people/person/languages	b
+b	/film/film/story_by	c

@@ -1,0 +1,4 @@
+a	/sports/sports_team_location/teams	b
+b	/location/hud_county_place/county	a
+a	/sports/sports_team_location/teams	b
+b	/location/hud_county_place/county	c

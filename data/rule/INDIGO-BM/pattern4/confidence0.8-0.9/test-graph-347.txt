@@ -1,0 +1,4 @@
+a	/government/legislative_session/members./government/government_position_held/legislative_sessions	b
+b	/government/governmental_body/members./government/government_position_held/legislative_sessions	a
+a	/government/legislative_session/members./government/government_position_held/legislative_sessions	b
+b	/government/governmental_body/members./government/government_position_held/legislative_sessions	c

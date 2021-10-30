@@ -1,0 +1,2 @@
+a	concept:locationlocatedwithinlocation	a	1
+a	concept:locationlocatedwithinlocation	b	1

@@ -1,0 +1,2 @@
+a	concept:mammalsuchasmammal	a	1
+b	concept:mammalsuchasmammal	a	1

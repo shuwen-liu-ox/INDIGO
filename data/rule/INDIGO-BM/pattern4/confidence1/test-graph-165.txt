@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/tv/tv_network/programs./tv/tv_network_duration/program	a
+a	/dataworld/gardening_hint/split_to	b
+b	/tv/tv_network/programs./tv/tv_network_duration/program	c

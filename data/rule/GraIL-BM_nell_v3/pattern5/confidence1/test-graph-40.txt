@@ -1,0 +1,4 @@
+a	concept:proxyfor	a
+a	concept:personleadsorganization	a
+a	concept:proxyfor	b
+a	concept:personleadsorganization	b

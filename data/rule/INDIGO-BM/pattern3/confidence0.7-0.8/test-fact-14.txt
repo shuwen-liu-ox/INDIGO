@@ -1,0 +1,2 @@
+a	/people/person/spouse_s./people/marriage/spouse	a	1
+b	/people/person/spouse_s./people/marriage/spouse	a	1

@@ -1,0 +1,4 @@
+a	concept:locationlocatedwithinlocation	a
+a	concept:citylocatedincountry	a
+a	concept:locationlocatedwithinlocation	b
+a	concept:citylocatedincountry	b

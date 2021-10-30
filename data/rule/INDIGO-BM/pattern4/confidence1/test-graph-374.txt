@@ -1,0 +1,4 @@
+a	/people/person/profession	b
+b	/people/person/profession	a
+a	/people/person/profession	b
+b	/people/person/profession	c

@@ -1,0 +1,4 @@
+a	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	b
+b	/education/educational_institution_campus/educational_institution	a
+a	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	b
+b	/education/educational_institution_campus/educational_institution	c

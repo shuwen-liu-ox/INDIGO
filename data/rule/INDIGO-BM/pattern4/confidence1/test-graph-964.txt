@@ -1,0 +1,4 @@
+a	/location/administrative_division/country	b
+b	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	a
+a	/location/administrative_division/country	b
+b	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	c

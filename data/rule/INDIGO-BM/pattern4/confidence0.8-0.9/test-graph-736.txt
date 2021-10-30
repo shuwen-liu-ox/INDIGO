@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/music/artist/origin	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/music/artist/origin	c

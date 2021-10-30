@@ -1,0 +1,4 @@
+a	/film/film/other_crew./film/film_crew_gig/crewmember	a
+a	/film/film/produced_by	a
+a	/film/film/other_crew./film/film_crew_gig/crewmember	b
+a	/film/film/produced_by	b

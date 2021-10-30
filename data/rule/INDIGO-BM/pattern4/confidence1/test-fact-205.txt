@@ -1,0 +1,2 @@
+a	/location/statistical_region/religions./location/religion_percentage/religion	a	1
+a	/location/statistical_region/religions./location/religion_percentage/religion	c	1

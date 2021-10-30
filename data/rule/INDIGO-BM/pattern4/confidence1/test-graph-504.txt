@@ -1,0 +1,4 @@
+a	/music/genre/parent_genre	b
+b	/dataworld/gardening_hint/split_to	a
+a	/music/genre/parent_genre	b
+b	/dataworld/gardening_hint/split_to	c

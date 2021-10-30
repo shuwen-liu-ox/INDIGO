@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/tv/tv_network/programs./tv/tv_network_duration/program	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/tv/tv_network/programs./tv/tv_network_duration/program	c

@@ -1,0 +1,2 @@
+a	concept:subpartof	a	1
+a	concept:subpartof	b	1

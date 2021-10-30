@@ -1,0 +1,2 @@
+a	concept:animalpreyson	a	1
+a	concept:animalpreyson	b	1

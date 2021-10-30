@@ -1,0 +1,2 @@
+a	/sports/sport/pro_athletes./sports/pro_sports_played/athlete	a	1
+a	/sports/sport/pro_athletes./sports/pro_sports_played/athlete	c	1

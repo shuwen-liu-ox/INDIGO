@@ -1,0 +1,4 @@
+a	/education/educational_institution_campus/educational_institution	b
+b	/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	a
+a	/education/educational_institution_campus/educational_institution	b
+b	/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	c

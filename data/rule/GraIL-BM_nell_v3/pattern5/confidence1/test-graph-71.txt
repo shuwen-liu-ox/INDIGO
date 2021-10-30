@@ -1,0 +1,4 @@
+a	concept:animalsuchasinvertebrate	a
+a	concept:animalthatfeedoninsect	a
+a	concept:animalsuchasinvertebrate	b
+a	concept:animalthatfeedoninsect	b

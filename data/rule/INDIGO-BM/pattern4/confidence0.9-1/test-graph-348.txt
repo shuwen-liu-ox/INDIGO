@@ -1,0 +1,4 @@
+a	/music/genre/artists	b
+b	/music/genre/artists	a
+a	/music/genre/artists	b
+b	/music/genre/artists	c

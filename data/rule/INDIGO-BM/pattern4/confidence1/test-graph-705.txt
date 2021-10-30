@@ -1,0 +1,4 @@
+a	/film/film/genre	b
+b	/award/award_category/disciplines_or_subjects	a
+a	/film/film/genre	b
+b	/award/award_category/disciplines_or_subjects	c

@@ -1,0 +1,4 @@
+a	concept:organizationheadquarteredincity	b
+b	concept:agentcompeteswithagent	a
+a	concept:organizationheadquarteredincity	b
+b	concept:agentcompeteswithagent	c

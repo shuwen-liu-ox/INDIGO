@@ -1,0 +1,4 @@
+a	/organization/organization/headquarters./location/mailing_address/state_province_region	b
+b	/organization/organization/place_founded	a
+a	/organization/organization/headquarters./location/mailing_address/state_province_region	b
+b	/organization/organization/place_founded	c

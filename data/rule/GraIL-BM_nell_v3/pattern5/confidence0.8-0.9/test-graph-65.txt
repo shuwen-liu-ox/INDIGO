@@ -1,0 +1,4 @@
+a	concept:arthropodcalledarthropod	a
+a	concept:agentcompeteswithagent	a
+a	concept:arthropodcalledarthropod	b
+a	concept:agentcompeteswithagent	b

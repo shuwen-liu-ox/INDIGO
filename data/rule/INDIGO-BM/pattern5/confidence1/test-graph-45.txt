@@ -1,0 +1,4 @@
+a	/time/event/locations	a
+a	/location/administrative_division/first_level_division_of	a
+a	/time/event/locations	b
+a	/location/administrative_division/first_level_division_of	b

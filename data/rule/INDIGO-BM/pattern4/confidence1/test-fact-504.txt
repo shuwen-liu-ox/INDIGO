@@ -1,0 +1,2 @@
+a	/music/genre/parent_genre	a	1
+a	/music/genre/parent_genre	c	1

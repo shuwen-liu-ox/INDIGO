@@ -1,0 +1,4 @@
+a	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	b
+b	/education/educational_institution/campuses	a
+a	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	b
+b	/education/educational_institution/campuses	c

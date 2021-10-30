@@ -1,0 +1,4 @@
+a	concept:hasofficeincity	b
+b	concept:acquired	a
+a	concept:hasofficeincity	b
+b	concept:acquired	c

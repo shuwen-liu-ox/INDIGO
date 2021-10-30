@@ -1,0 +1,4 @@
+a	concept:citylocatedincountry	a
+a	concept:proxyfor	a
+a	concept:citylocatedincountry	b
+a	concept:proxyfor	b

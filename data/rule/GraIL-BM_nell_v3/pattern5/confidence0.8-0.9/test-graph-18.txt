@@ -1,0 +1,4 @@
+a	concept:animalthatfeedoninsect	a
+a	concept:arthropodandotherarthropod	a
+a	concept:animalthatfeedoninsect	b
+a	concept:arthropodandotherarthropod	b

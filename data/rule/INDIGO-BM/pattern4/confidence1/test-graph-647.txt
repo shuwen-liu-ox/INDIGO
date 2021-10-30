@@ -1,0 +1,4 @@
+a	/location/location/adjoin_s./location/adjoining_relationship/adjoins	b
+b	/education/educational_institution_campus/educational_institution	a
+a	/location/location/adjoin_s./location/adjoining_relationship/adjoins	b
+b	/education/educational_institution_campus/educational_institution	c

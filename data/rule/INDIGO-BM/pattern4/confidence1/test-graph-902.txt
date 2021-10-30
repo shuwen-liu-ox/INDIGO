@@ -1,0 +1,4 @@
+a	/organization/organization/child./organization/organization_relationship/child	b
+b	/education/educational_institution_campus/educational_institution	a
+a	/organization/organization/child./organization/organization_relationship/child	b
+b	/education/educational_institution_campus/educational_institution	c

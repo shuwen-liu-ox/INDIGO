@@ -1,0 +1,4 @@
+a	/base/biblioness/bibs_location/country	b
+b	/people/deceased_person/place_of_death	a
+a	/base/biblioness/bibs_location/country	b
+b	/people/deceased_person/place_of_death	c

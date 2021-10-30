@@ -1,0 +1,4 @@
+a	/film/actor/film./film/performance/film	a
+a	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	a
+a	/film/actor/film./film/performance/film	b
+a	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	b

@@ -1,0 +1,4 @@
+a	/location/statistical_region/religions./location/religion_percentage/religion	b
+b	/location/hud_county_place/place	a
+a	/location/statistical_region/religions./location/religion_percentage/religion	b
+b	/location/hud_county_place/place	c

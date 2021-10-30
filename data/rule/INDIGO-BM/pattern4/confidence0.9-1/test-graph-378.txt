@@ -1,0 +1,4 @@
+a	/people/profession/specialization_of	b
+b	/film/actor/film./film/performance/special_performance_type	a
+a	/people/profession/specialization_of	b
+b	/film/actor/film./film/performance/special_performance_type	c

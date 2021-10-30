@@ -1,0 +1,4 @@
+a	/base/aareas/schema/administrative_area/administrative_area_type	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a
+a	/base/aareas/schema/administrative_area/administrative_area_type	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c

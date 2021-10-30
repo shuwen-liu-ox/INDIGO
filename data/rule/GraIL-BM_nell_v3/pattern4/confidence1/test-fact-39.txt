@@ -1,0 +1,2 @@
+a	concept:companyeconomicsector	a	1
+a	concept:companyeconomicsector	c	1

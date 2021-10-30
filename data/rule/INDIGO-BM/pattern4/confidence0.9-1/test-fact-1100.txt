@@ -1,0 +1,2 @@
+a	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	a	1
+a	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	c	1

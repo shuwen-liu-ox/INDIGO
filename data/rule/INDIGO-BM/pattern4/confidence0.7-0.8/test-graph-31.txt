@@ -1,0 +1,4 @@
+a	/soccer/football_team/current_roster./sports/sports_team_roster/position	b
+b	/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	a
+a	/soccer/football_team/current_roster./sports/sports_team_roster/position	b
+b	/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	c

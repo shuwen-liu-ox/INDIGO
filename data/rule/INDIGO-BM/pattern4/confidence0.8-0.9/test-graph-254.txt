@@ -1,0 +1,4 @@
+a	/location/administrative_division/first_level_division_of	b
+b	/people/person/place_of_birth	a
+a	/location/administrative_division/first_level_division_of	b
+b	/people/person/place_of_birth	c

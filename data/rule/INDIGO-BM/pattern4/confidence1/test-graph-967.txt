@@ -1,0 +1,4 @@
+a	/tv/tv_program/genre	b
+b	/dataworld/gardening_hint/split_to	a
+a	/tv/tv_program/genre	b
+b	/dataworld/gardening_hint/split_to	c

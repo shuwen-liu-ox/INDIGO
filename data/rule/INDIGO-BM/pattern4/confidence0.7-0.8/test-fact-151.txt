@@ -1,0 +1,2 @@
+a	/people/person/spouse_s./people/marriage/type_of_union	a	1
+a	/people/person/spouse_s./people/marriage/type_of_union	c	1

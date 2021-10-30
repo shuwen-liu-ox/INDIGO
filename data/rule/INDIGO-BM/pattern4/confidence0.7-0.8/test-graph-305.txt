@@ -1,0 +1,4 @@
+a	/base/biblioness/bibs_location/country	b
+b	/people/person/spouse_s./people/marriage/location_of_ceremony	a
+a	/base/biblioness/bibs_location/country	b
+b	/people/person/spouse_s./people/marriage/location_of_ceremony	c

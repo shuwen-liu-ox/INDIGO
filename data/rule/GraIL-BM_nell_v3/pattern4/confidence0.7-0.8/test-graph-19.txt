@@ -1,0 +1,4 @@
+a	concept:agriculturalproducttoattractinsect	b
+b	concept:agriculturalproductincludingagriculturalproduct	a
+a	concept:agriculturalproducttoattractinsect	b
+b	concept:agriculturalproductincludingagriculturalproduct	c

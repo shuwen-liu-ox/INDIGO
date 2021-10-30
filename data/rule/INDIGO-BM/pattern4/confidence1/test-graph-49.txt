@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/people/deceased_person/place_of_burial	a
+a	/dataworld/gardening_hint/split_to	b
+b	/people/deceased_person/place_of_burial	c

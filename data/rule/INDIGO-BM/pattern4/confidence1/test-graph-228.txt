@@ -1,0 +1,4 @@
+a	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	b
+b	/location/hud_county_place/place	a
+a	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	b
+b	/location/hud_county_place/place	c

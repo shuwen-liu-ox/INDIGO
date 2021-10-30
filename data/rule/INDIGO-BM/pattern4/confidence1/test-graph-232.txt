@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/base/locations/continents/countries_within	a
+a	/dataworld/gardening_hint/split_to	b
+b	/base/locations/continents/countries_within	c

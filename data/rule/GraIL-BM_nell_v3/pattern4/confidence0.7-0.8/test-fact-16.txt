@@ -1,0 +1,2 @@
+a	concept:animalistypeofanimal	a	1
+a	concept:animalistypeofanimal	c	1

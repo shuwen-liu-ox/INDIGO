@@ -1,0 +1,4 @@
+a	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	b
+b	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	a
+a	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	b
+b	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	c

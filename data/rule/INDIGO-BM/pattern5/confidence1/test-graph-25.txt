@@ -1,0 +1,4 @@
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	a
+a	/influence/influence_node/influenced_by	a
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	b
+a	/influence/influence_node/influenced_by	b

@@ -1,0 +1,2 @@
+a	concept:agentcreated	a	1
+a	concept:agentcreated	c	1

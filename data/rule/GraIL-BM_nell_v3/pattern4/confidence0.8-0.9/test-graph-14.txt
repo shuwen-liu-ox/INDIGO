@@ -1,0 +1,4 @@
+a	concept:awardtrophytournamentisthechampionshipgameofthenationalsport	b
+b	concept:teamwontrophy	a
+a	concept:awardtrophytournamentisthechampionshipgameofthenationalsport	b
+b	concept:teamwontrophy	c

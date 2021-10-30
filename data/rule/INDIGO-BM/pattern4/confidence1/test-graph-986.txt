@@ -1,0 +1,4 @@
+a	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	b
+b	/location/hud_county_place/place	a
+a	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	b
+b	/location/hud_county_place/place	c

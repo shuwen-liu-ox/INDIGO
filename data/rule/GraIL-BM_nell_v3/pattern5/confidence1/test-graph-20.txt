@@ -1,0 +1,4 @@
+a	concept:synonymfor	a
+a	concept:animalthatfeedoninsect	a
+a	concept:synonymfor	b
+a	concept:animalthatfeedoninsect	b

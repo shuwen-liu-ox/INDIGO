@@ -1,0 +1,4 @@
+a	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	b
+b	/location/country/capital	a
+a	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	b
+b	/location/country/capital	c

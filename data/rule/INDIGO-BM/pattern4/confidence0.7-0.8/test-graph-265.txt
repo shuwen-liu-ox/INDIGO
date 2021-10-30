@@ -1,0 +1,4 @@
+a	/people/person/nationality	b
+b	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	a
+a	/people/person/nationality	b
+b	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	c

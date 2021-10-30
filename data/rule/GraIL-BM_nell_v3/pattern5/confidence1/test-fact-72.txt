@@ -1,0 +1,2 @@
+a	concept:citylocatedingeopoliticallocation	a	1
+a	concept:citylocatedingeopoliticallocation	b	1

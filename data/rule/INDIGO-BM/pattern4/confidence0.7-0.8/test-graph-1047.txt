@@ -1,0 +1,4 @@
+a	/location/location/time_zones	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a
+a	/location/location/time_zones	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c

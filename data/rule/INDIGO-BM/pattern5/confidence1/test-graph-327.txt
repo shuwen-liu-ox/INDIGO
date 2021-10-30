@@ -1,0 +1,4 @@
+a	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	a
+a	/film/film/film_production_design_by	a
+a	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	b
+a	/film/film/film_production_design_by	b

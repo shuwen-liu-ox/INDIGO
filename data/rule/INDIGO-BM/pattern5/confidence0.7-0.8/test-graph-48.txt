@@ -1,0 +1,4 @@
+a	/location/administrative_division/country	a
+a	/location/administrative_division/first_level_division_of	a
+a	/location/administrative_division/country	b
+a	/location/administrative_division/first_level_division_of	b

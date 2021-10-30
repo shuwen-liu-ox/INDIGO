@@ -1,0 +1,4 @@
+a	/base/biblioness/bibs_location/country	b
+b	/location/administrative_division/first_level_division_of	a
+a	/base/biblioness/bibs_location/country	b
+b	/location/administrative_division/first_level_division_of	c

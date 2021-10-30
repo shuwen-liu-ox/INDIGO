@@ -1,0 +1,4 @@
+a	/location/location/partially_contains	b
+b	/location/hud_county_place/place	a
+a	/location/location/partially_contains	b
+b	/location/hud_county_place/place	c

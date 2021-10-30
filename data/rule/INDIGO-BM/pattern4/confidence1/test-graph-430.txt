@@ -1,0 +1,4 @@
+a	/film/actor/dubbing_performances./film/dubbing_performance/language	b
+b	/film/film/personal_appearances./film/personal_film_appearance/person	a
+a	/film/actor/dubbing_performances./film/dubbing_performance/language	b
+b	/film/film/personal_appearances./film/personal_film_appearance/person	c

@@ -1,0 +1,2 @@
+a	/people/person/place_of_birth	a	1
+a	/people/person/place_of_birth	c	1

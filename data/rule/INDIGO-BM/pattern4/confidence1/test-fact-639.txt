@@ -1,0 +1,2 @@
+a	/location/location/partially_contains	a	1
+a	/location/location/partially_contains	c	1

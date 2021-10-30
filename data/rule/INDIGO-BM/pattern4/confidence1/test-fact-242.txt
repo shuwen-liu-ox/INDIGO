@@ -1,0 +1,2 @@
+a	/location/us_county/county_seat	a	1
+a	/location/us_county/county_seat	c	1

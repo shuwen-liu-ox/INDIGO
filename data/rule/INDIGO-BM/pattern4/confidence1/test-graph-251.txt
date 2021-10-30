@@ -1,0 +1,4 @@
+a	/location/administrative_division/country	b
+b	/people/deceased_person/place_of_burial	a
+a	/location/administrative_division/country	b
+b	/people/deceased_person/place_of_burial	c

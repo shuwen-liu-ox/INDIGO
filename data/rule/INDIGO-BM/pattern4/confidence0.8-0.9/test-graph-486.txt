@@ -1,0 +1,4 @@
+a	/film/actor/dubbing_performances./film/dubbing_performance/language	b
+b	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	a
+a	/film/actor/dubbing_performances./film/dubbing_performance/language	b
+b	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	c

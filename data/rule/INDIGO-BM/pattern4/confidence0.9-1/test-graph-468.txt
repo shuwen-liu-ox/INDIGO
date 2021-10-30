@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/film/film/release_date_s./film/film_regional_release_date/film_release_region	a
+a	/dataworld/gardening_hint/split_to	b
+b	/film/film/release_date_s./film/film_regional_release_date/film_release_region	c

@@ -1,0 +1,4 @@
+a	/people/person/sibling_s./people/sibling_relationship/sibling	a
+a	/award/award_winner/awards_won./award/award_honor/award_winner	a
+a	/people/person/sibling_s./people/sibling_relationship/sibling	b
+a	/award/award_winner/awards_won./award/award_honor/award_winner	b

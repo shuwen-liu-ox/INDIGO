@@ -1,0 +1,2 @@
+a	concept:organizationheadquarteredincity	a	1
+a	concept:organizationheadquarteredincity	c	1

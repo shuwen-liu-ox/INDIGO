@@ -1,0 +1,4 @@
+a	concept:animalsuchasinsect	a
+a	concept:synonymfor	a
+a	concept:animalsuchasinsect	b
+a	concept:synonymfor	b

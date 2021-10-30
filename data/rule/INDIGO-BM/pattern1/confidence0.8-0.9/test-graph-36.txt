@@ -1,0 +1,2 @@
+a	/business/business_operation/assets./measurement_unit/dated_money_value/currency	a
+a	/business/business_operation/assets./measurement_unit/dated_money_value/currency	b

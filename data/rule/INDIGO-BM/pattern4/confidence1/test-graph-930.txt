@@ -1,0 +1,4 @@
+a	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	b
+b	/education/educational_institution/campuses	a
+a	/award/ranked_item/appears_in_ranked_lists./award/ranking/list	b
+b	/education/educational_institution/campuses	c

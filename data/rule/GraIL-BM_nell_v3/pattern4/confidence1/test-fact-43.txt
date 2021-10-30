@@ -1,0 +1,2 @@
+a	concept:stateorprovinceisborderedbystateorprovince	a	1
+a	concept:stateorprovinceisborderedbystateorprovince	c	1

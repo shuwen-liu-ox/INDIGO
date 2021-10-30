@@ -1,0 +1,2 @@
+a	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	a	1
+a	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	c	1

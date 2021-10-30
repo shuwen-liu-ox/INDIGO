@@ -1,0 +1,4 @@
+a	concept:agentcollaborateswithagent	a
+a	concept:agentbelongstoorganization	a
+a	concept:agentcollaborateswithagent	b
+a	concept:agentbelongstoorganization	b

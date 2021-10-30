@@ -1,0 +1,2 @@
+a	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	a	1
+a	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	c	1

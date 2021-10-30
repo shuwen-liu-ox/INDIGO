@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	a
+a	/dataworld/gardening_hint/split_to	b
+b	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	c

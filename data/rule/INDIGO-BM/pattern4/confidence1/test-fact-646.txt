@@ -1,0 +1,2 @@
+a	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a	1
+a	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c	1

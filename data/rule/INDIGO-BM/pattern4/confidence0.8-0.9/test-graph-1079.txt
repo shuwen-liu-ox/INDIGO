@@ -1,0 +1,4 @@
+a	/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	a
+a	/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	c

@@ -1,0 +1,4 @@
+a	/time/event/locations	b
+b	/language/human_language/countries_spoken_in	a
+a	/time/event/locations	b
+b	/language/human_language/countries_spoken_in	c

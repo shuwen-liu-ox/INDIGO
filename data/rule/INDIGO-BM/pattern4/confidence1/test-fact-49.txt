@@ -1,0 +1,2 @@
+a	/people/deceased_person/place_of_burial	a	1
+a	/people/deceased_person/place_of_burial	c	1

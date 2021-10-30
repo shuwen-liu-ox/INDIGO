@@ -1,0 +1,2 @@
+a	/people/person/places_lived./people/place_lived/location	a	1
+a	/people/person/places_lived./people/place_lived/location	c	1

@@ -1,0 +1,4 @@
+a	/award/award_category/disciplines_or_subjects	b
+b	/award/award_category/category_of	a
+a	/award/award_category/disciplines_or_subjects	b
+b	/award/award_category/category_of	c

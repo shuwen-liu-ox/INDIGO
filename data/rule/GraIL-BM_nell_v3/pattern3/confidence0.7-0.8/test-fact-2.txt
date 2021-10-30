@@ -1,0 +1,2 @@
+a	concept:competeswith	a	1
+b	concept:competeswith	a	1

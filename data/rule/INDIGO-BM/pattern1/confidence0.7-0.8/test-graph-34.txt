@@ -1,0 +1,2 @@
+a	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	a
+a	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	b

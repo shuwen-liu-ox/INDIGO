@@ -1,0 +1,2 @@
+a	/business/job_title/people_with_this_title./business/employment_tenure/company	a	1
+a	/business/job_title/people_with_this_title./business/employment_tenure/company	c	1

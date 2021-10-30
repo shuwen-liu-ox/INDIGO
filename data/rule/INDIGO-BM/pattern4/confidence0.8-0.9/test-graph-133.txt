@@ -1,0 +1,4 @@
+a	/location/administrative_division/country	b
+b	/base/biblioness/bibs_location/state	a
+a	/location/administrative_division/country	b
+b	/base/biblioness/bibs_location/state	c

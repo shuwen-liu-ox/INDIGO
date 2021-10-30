@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/olympics/olympic_games/participating_countries	a
+a	/dataworld/gardening_hint/split_to	b
+b	/olympics/olympic_games/participating_countries	c

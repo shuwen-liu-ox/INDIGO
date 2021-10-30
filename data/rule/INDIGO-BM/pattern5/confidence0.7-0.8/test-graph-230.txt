@@ -1,0 +1,4 @@
+a	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	a
+a	/people/person/spouse_s./people/marriage/spouse	a
+a	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	b
+a	/people/person/spouse_s./people/marriage/spouse	b

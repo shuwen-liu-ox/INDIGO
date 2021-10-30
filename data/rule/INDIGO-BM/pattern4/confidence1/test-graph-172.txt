@@ -1,0 +1,4 @@
+a	/base/aareas/schema/administrative_area/capital	b
+b	/location/country/capital	a
+a	/base/aareas/schema/administrative_area/capital	b
+b	/location/country/capital	c

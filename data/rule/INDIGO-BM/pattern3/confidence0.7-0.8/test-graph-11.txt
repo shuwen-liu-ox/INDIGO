@@ -1,0 +1,2 @@
+a	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	a
+a	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	b

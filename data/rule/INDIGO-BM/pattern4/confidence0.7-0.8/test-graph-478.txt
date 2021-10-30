@@ -1,0 +1,4 @@
+a	/people/person/nationality	b
+b	/film/film/other_crew./film/film_crew_gig/crewmember	a
+a	/people/person/nationality	b
+b	/film/film/other_crew./film/film_crew_gig/crewmember	c

@@ -1,0 +1,2 @@
+a	/music/performance_role/track_performances./music/track_contribution/role	a	1
+b	/music/performance_role/track_performances./music/track_contribution/role	a	1

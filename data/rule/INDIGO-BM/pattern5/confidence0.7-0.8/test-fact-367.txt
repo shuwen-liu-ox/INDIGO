@@ -1,0 +1,2 @@
+a	/american_football/football_team/current_roster./sports/sports_team_roster/position	a	1
+a	/american_football/football_team/current_roster./sports/sports_team_roster/position	b	1

@@ -1,0 +1,4 @@
+a	/location/location/contains	b
+b	/education/educational_institution/campuses	a
+a	/location/location/contains	b
+b	/education/educational_institution/campuses	c

@@ -1,0 +1,4 @@
+a	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	b
+b	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	a
+a	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	b
+b	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	c

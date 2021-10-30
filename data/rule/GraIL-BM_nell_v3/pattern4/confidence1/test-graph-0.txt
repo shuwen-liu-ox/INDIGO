@@ -1,0 +1,4 @@
+a	concept:organizationalsoknownas	b
+b	concept:agentcompeteswithagent	a
+a	concept:organizationalsoknownas	b
+b	concept:agentcompeteswithagent	c

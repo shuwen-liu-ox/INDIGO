@@ -1,0 +1,2 @@
+a	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	a	1
+a	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	c	1

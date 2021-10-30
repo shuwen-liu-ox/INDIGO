@@ -1,0 +1,4 @@
+a	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	a
+a	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	a
+a	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	b
+a	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	b

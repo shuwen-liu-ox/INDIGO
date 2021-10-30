@@ -1,0 +1,4 @@
+a	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	b
+b	/tv/tv_network/programs./tv/tv_network_duration/program	a
+a	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	b
+b	/tv/tv_network/programs./tv/tv_network_duration/program	c

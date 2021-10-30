@@ -1,0 +1,2 @@
+a	concept:teamplaysagainstteam	a	1
+b	concept:teamplaysagainstteam	a	1

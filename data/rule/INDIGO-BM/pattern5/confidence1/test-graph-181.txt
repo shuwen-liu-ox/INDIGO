@@ -1,0 +1,4 @@
+a	/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	a
+a	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	a
+a	/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	b
+a	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	b

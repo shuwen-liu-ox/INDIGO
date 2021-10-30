@@ -1,0 +1,4 @@
+a	concept:companyeconomicsector	b
+b	concept:companyalsoknownas	a
+a	concept:companyeconomicsector	b
+b	concept:companyalsoknownas	c

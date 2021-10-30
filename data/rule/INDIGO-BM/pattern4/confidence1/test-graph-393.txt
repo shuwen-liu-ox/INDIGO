@@ -1,0 +1,4 @@
+a	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	b
+b	/location/hud_county_place/place	a
+a	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	b
+b	/location/hud_county_place/place	c

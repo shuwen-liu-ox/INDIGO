@@ -1,0 +1,2 @@
+a	/education/educational_institution/students_graduates./education/education/student	a	1
+a	/education/educational_institution/students_graduates./education/education/student	c	1

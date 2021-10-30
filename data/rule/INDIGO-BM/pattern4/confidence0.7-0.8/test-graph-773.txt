@@ -1,0 +1,4 @@
+a	/sports/sports_team/roster./american_football/football_roster_position/position	b
+b	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	a
+a	/sports/sports_team/roster./american_football/football_roster_position/position	b
+b	/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	c

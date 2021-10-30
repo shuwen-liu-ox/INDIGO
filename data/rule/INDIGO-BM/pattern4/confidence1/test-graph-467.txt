@@ -1,0 +1,4 @@
+a	/location/us_county/county_seat	b
+b	/film/film/release_date_s./film/film_regional_release_date/film_release_region	a
+a	/location/us_county/county_seat	b
+b	/film/film/release_date_s./film/film_regional_release_date/film_release_region	c

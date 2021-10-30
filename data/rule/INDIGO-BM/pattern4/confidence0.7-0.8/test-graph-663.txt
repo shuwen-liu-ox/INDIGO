@@ -1,0 +1,4 @@
+a	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	b
+b	/film/film/featured_film_locations	a
+a	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	b
+b	/film/film/featured_film_locations	c

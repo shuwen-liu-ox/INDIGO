@@ -1,0 +1,4 @@
+a	concept:specializationof	a
+a	concept:animalsuchasinvertebrate	a
+a	concept:specializationof	b
+a	concept:animalsuchasinvertebrate	b

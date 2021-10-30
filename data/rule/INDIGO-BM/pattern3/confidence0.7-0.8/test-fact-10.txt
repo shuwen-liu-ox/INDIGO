@@ -1,0 +1,2 @@
+a	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	a	1
+b	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	a	1

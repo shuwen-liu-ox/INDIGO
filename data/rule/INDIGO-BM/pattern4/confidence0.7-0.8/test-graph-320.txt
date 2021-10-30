@@ -1,0 +1,4 @@
+a	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a
+a	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c

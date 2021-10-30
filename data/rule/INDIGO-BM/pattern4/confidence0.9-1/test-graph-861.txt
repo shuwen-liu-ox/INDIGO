@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/people/person/employment_history./business/employment_tenure/company	a
+a	/dataworld/gardening_hint/split_to	b
+b	/people/person/employment_history./business/employment_tenure/company	c

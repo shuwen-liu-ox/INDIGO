@@ -1,0 +1,4 @@
+a	concept:mammalsuchasmammal	a
+a	concept:animalpreyson	a
+a	concept:mammalsuchasmammal	b
+a	concept:animalpreyson	b

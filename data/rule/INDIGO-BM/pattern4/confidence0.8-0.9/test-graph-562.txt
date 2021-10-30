@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	a
+a	/dataworld/gardening_hint/split_to	b
+b	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	c

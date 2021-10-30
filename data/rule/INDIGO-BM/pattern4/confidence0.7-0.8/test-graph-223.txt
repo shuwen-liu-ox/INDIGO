@@ -1,0 +1,4 @@
+a	/sports/sports_position/players./sports/sports_team_roster/position	b
+b	/soccer/football_team/current_roster./sports/sports_team_roster/position	a
+a	/sports/sports_position/players./sports/sports_team_roster/position	b
+b	/soccer/football_team/current_roster./sports/sports_team_roster/position	c

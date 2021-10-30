@@ -1,0 +1,2 @@
+a	concept:teamplayssport	a	1
+a	concept:teamplayssport	c	1

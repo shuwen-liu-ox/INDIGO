@@ -1,0 +1,2 @@
+a	/education/educational_institution/colors	a	1
+a	/education/educational_institution/colors	c	1

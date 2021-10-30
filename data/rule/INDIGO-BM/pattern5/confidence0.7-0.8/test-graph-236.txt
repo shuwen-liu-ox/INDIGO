@@ -1,0 +1,4 @@
+a	/base/biblioness/bibs_location/country	a
+a	/base/aareas/schema/administrative_area/administrative_parent	a
+a	/base/biblioness/bibs_location/country	b
+a	/base/aareas/schema/administrative_area/administrative_parent	b

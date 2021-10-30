@@ -1,0 +1,4 @@
+a	concept:teamhomestadium	b
+b	concept:subpartoforganization	a
+a	concept:teamhomestadium	b
+b	concept:subpartoforganization	c

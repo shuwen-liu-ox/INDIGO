@@ -1,0 +1,4 @@
+a	/education/educational_institution_campus/educational_institution	b
+b	/business/job_title/people_with_this_title./business/employment_tenure/company	a
+a	/education/educational_institution_campus/educational_institution	b
+b	/business/job_title/people_with_this_title./business/employment_tenure/company	c

@@ -1,0 +1,4 @@
+a	/education/educational_institution/school_type	b
+b	/education/educational_institution/campuses	a
+a	/education/educational_institution/school_type	b
+b	/education/educational_institution/campuses	c

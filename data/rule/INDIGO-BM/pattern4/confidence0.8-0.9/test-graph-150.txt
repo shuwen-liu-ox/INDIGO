@@ -1,0 +1,4 @@
+a	/people/person/spouse_s./people/marriage/type_of_union	b
+b	/dataworld/gardening_hint/split_to	a
+a	/people/person/spouse_s./people/marriage/type_of_union	b
+b	/dataworld/gardening_hint/split_to	c

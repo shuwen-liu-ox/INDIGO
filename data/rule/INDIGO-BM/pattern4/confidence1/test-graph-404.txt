@@ -1,0 +1,4 @@
+a	/organization/organization/place_founded	b
+b	/education/educational_institution/campuses	a
+a	/organization/organization/place_founded	b
+b	/education/educational_institution/campuses	c

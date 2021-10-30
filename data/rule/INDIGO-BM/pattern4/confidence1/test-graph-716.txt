@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	c

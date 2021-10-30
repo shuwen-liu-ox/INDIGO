@@ -1,0 +1,4 @@
+a	concept:animalsuchasinsect	a
+a	concept:arthropodcalledarthropod	a
+a	concept:animalsuchasinsect	b
+a	concept:arthropodcalledarthropod	b

@@ -1,0 +1,4 @@
+a	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	a
+a	/people/person/spouse_s./people/marriage/spouse	a
+a	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	b
+a	/people/person/spouse_s./people/marriage/spouse	b

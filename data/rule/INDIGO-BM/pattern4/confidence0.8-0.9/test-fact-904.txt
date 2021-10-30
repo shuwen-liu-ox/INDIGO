@@ -1,0 +1,2 @@
+a	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	a	1
+a	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	c	1

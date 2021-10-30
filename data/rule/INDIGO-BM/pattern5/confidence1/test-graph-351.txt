@@ -1,0 +1,4 @@
+a	/tv/tv_network/programs./tv/tv_network_duration/program	a
+a	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	a
+a	/tv/tv_network/programs./tv/tv_network_duration/program	b
+a	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	b

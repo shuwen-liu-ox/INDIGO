@@ -1,0 +1,4 @@
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	a
+a	/award/award_winner/awards_won./award/award_honor/award_winner	a
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	b
+a	/award/award_winner/awards_won./award/award_honor/award_winner	b

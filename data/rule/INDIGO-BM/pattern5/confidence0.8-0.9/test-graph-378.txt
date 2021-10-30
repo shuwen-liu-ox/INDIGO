@@ -1,0 +1,4 @@
+a	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	a
+a	/business/business_operation/assets./measurement_unit/dated_money_value/currency	a
+a	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	b
+a	/business/business_operation/assets./measurement_unit/dated_money_value/currency	b

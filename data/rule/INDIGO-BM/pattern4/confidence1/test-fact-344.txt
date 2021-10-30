@@ -1,0 +1,2 @@
+a	/sports/sports_team_location/teams	a	1
+a	/sports/sports_team_location/teams	c	1

@@ -1,0 +1,4 @@
+a	/education/educational_institution_campus/educational_institution	b
+b	/film/film/featured_film_locations	a
+a	/education/educational_institution_campus/educational_institution	b
+b	/film/film/featured_film_locations	c

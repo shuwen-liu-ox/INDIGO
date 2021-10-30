@@ -1,0 +1,4 @@
+a	/tv/tv_program/country_of_origin	b
+b	/tv/tv_program/program_creator	a
+a	/tv/tv_program/country_of_origin	b
+b	/tv/tv_program/program_creator	c

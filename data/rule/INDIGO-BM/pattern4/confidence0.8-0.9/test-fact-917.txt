@@ -1,0 +1,2 @@
+a	/music/artist/contribution./music/recording_contribution/performance_role	a	1
+a	/music/artist/contribution./music/recording_contribution/performance_role	c	1

@@ -1,0 +1,4 @@
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	a
+a	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	a
+a	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	b
+a	/base/popstra/celebrity/breakup./base/popstra/breakup/participant	b

@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/base/popstra/celebrity/dated./base/popstra/dated/participant	a
+a	/dataworld/gardening_hint/split_to	b
+b	/base/popstra/celebrity/dated./base/popstra/dated/participant	c

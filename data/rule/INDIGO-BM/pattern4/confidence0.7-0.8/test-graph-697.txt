@@ -1,0 +1,4 @@
+a	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	b
+b	/award/award_winning_work/awards_won./award/award_honor/award_winner	a
+a	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	b
+b	/award/award_winning_work/awards_won./award/award_honor/award_winner	c

@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/location/location/partially_contains	a
+a	/dataworld/gardening_hint/split_to	b
+b	/location/location/partially_contains	c

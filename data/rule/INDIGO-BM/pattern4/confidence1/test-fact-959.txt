@@ -1,0 +1,2 @@
+a	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	a	1
+a	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	c	1

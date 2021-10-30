@@ -1,0 +1,4 @@
+a	/award/award_winner/awards_won./award/award_honor/award_winner	a
+a	/film/film_set_designer/film_sets_designed	a
+a	/award/award_winner/awards_won./award/award_honor/award_winner	b
+a	/film/film_set_designer/film_sets_designed	b

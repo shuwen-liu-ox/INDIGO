@@ -1,0 +1,2 @@
+a	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	a	1
+a	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	c	1

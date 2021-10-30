@@ -1,0 +1,4 @@
+a	/location/administrative_division/first_level_division_of	b
+b	/film/film/language	a
+a	/location/administrative_division/first_level_division_of	b
+b	/film/film/language	c

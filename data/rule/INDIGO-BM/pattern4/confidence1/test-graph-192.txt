@@ -1,0 +1,4 @@
+a	/business/business_operation/assets./measurement_unit/dated_money_value/currency	b
+b	/dataworld/gardening_hint/split_to	a
+a	/business/business_operation/assets./measurement_unit/dated_money_value/currency	b
+b	/dataworld/gardening_hint/split_to	c

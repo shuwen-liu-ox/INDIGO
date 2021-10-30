@@ -1,0 +1,4 @@
+a	concept:athleteplaysforteam	a
+a	concept:worksfor	a
+a	concept:athleteplaysforteam	b
+a	concept:worksfor	b

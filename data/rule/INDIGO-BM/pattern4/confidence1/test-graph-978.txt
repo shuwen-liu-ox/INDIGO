@@ -1,0 +1,4 @@
+a	/location/country/official_language	b
+b	/location/country/capital	a
+a	/location/country/official_language	b
+b	/location/country/capital	c

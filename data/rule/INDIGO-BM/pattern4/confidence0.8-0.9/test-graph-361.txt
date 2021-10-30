@@ -1,0 +1,4 @@
+a	/people/person/gender	b
+b	/influence/influence_node/influenced_by	a
+a	/people/person/gender	b
+b	/influence/influence_node/influenced_by	c

@@ -1,0 +1,4 @@
+a	concept:personhasresidenceingeopoliticallocation	a
+a	concept:personleadsgeopoliticalorganization	a
+a	concept:personhasresidenceingeopoliticallocation	b
+a	concept:personleadsgeopoliticalorganization	b

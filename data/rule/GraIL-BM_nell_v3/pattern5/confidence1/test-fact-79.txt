@@ -1,0 +1,2 @@
+a	concept:agentcollaborateswithagent	a	1
+a	concept:agentcollaborateswithagent	b	1

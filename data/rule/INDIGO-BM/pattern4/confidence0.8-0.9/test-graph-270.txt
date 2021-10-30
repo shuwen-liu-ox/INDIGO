@@ -1,0 +1,4 @@
+a	/location/administrative_division/country	b
+b	/people/person/places_lived./people/place_lived/location	a
+a	/location/administrative_division/country	b
+b	/people/person/places_lived./people/place_lived/location	c

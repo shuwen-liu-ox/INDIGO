@@ -1,0 +1,4 @@
+a	/education/educational_institution/campuses	b
+b	/education/educational_degree/people_with_this_degree./education/education/institution	a
+a	/education/educational_institution/campuses	b
+b	/education/educational_degree/people_with_this_degree./education/education/institution	c

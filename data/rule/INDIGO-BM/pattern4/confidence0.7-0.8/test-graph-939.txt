@@ -1,0 +1,4 @@
+a	/location/country/capital	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	a
+a	/location/country/capital	b
+b	/organization/organization/headquarters./location/mailing_address/state_province_region	c

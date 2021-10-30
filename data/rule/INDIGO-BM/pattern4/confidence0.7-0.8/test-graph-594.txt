@@ -1,0 +1,4 @@
+a	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	b
+b	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	a
+a	/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	b
+b	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	c

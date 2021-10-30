@@ -1,0 +1,2 @@
+a	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	a	1
+a	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	b	1

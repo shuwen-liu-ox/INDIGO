@@ -1,0 +1,4 @@
+a	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	b
+b	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	a
+a	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	b
+b	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	c

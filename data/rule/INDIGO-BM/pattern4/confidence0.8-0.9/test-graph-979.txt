@@ -1,0 +1,4 @@
+a	/food/food/nutrients./food/nutrition_fact/nutrient	b
+b	/food/food/nutrients./food/nutrition_fact/nutrient	a
+a	/food/food/nutrients./food/nutrition_fact/nutrient	b
+b	/food/food/nutrients./food/nutrition_fact/nutrient	c

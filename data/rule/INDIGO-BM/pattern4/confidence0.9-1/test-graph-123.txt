@@ -1,0 +1,4 @@
+a	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	b
+b	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	a
+a	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	b
+b	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	c

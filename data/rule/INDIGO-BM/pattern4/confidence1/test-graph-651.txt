@@ -1,0 +1,4 @@
+a	/education/educational_institution_campus/educational_institution	b
+b	/award/award_category/winners./award/award_honor/award_winner	a
+a	/education/educational_institution_campus/educational_institution	b
+b	/award/award_category/winners./award/award_honor/award_winner	c

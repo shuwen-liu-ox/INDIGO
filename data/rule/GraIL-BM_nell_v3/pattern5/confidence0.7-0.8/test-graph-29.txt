@@ -1,0 +1,4 @@
+a	concept:animalpreyson	a
+a	concept:specializationof	a
+a	concept:animalpreyson	b
+a	concept:specializationof	b

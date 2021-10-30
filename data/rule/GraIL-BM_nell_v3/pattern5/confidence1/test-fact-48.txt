@@ -1,0 +1,2 @@
+a	concept:agentcompeteswithagent	a	1
+a	concept:agentcompeteswithagent	b	1

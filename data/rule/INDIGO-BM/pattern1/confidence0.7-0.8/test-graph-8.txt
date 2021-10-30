@@ -1,0 +1,2 @@
+a	/base/aareas/schema/administrative_area/capital	a
+a	/base/aareas/schema/administrative_area/capital	b

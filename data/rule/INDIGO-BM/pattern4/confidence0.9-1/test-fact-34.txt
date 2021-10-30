@@ -1,0 +1,2 @@
+a	/award/award_category/category_of	a	1
+a	/award/award_category/category_of	c	1

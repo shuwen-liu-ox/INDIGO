@@ -1,0 +1,2 @@
+a	/education/educational_institution/students_graduates./education/education/major_field_of_study	a	1
+a	/education/educational_institution/students_graduates./education/education/major_field_of_study	c	1

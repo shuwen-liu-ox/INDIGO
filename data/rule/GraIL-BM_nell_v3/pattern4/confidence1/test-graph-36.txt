@@ -1,0 +1,4 @@
+a	concept:specializationof	b
+b	concept:animalthatfeedoninsect	a
+a	concept:specializationof	b
+b	concept:animalthatfeedoninsect	c

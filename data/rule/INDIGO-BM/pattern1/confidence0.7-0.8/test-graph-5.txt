@@ -1,0 +1,2 @@
+a	/location/administrative_division/first_level_division_of	a
+a	/location/administrative_division/first_level_division_of	b

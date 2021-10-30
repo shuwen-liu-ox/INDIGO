@@ -1,0 +1,2 @@
+a	concept:arthropodandotherarthropod	a	1
+a	concept:arthropodandotherarthropod	b	1

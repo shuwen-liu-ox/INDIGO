@@ -1,0 +1,2 @@
+a	/military/military_conflict/combatants./military/military_combatant_group/combatants	a	1
+a	/military/military_conflict/combatants./military/military_combatant_group/combatants	b	1

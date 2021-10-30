@@ -1,0 +1,4 @@
+a	/tv/tv_program/country_of_origin	b
+b	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	a
+a	/tv/tv_program/country_of_origin	b
+b	/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	c

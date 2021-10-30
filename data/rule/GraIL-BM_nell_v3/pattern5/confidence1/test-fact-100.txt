@@ -1,0 +1,2 @@
+a	concept:proxyfor	a	1
+a	concept:proxyfor	b	1

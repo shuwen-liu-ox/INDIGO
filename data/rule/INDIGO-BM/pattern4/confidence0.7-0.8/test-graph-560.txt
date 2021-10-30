@@ -1,0 +1,4 @@
+a	/base/biblioness/bibs_location/state	b
+b	/organization/organization/headquarters./location/mailing_address/citytown	a
+a	/base/biblioness/bibs_location/state	b
+b	/organization/organization/headquarters./location/mailing_address/citytown	c

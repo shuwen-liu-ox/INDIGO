@@ -1,0 +1,4 @@
+a	/people/person/gender	b
+b	/user/alexander/philosophy/philosopher/interests	a
+a	/people/person/gender	b
+b	/user/alexander/philosophy/philosopher/interests	c

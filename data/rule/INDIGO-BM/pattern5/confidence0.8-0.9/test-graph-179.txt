@@ -1,0 +1,4 @@
+a	/time/event/locations	a
+a	/base/culturalevent/event/entity_involved	a
+a	/time/event/locations	b
+a	/base/culturalevent/event/entity_involved	b

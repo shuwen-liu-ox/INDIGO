@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/music/group_member/membership./music/group_membership/group	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/music/group_member/membership./music/group_membership/group	c

@@ -1,0 +1,2 @@
+a	/base/aareas/schema/administrative_area/administrative_area_type	a	1
+a	/base/aareas/schema/administrative_area/administrative_area_type	c	1

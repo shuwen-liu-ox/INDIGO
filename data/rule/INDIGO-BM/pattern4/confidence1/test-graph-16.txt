@@ -1,0 +1,4 @@
+a	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	b
+b	/location/hud_county_place/place	a
+a	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	b
+b	/location/hud_county_place/place	c

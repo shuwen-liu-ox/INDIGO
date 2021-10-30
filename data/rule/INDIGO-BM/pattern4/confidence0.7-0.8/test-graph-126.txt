@@ -1,0 +1,4 @@
+a	/organization/organization/headquarters./location/mailing_address/country	b
+b	/location/location/contains	a
+a	/organization/organization/headquarters./location/mailing_address/country	b
+b	/location/location/contains	c

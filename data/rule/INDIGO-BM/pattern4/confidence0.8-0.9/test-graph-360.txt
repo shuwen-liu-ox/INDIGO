@@ -1,0 +1,4 @@
+a	/people/person/gender	b
+b	/influence/influence_node/peers./influence/peer_relationship/peers	a
+a	/people/person/gender	b
+b	/influence/influence_node/peers./influence/peer_relationship/peers	c

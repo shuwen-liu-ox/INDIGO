@@ -1,0 +1,2 @@
+a	/people/person/nationality	a	1
+a	/people/person/nationality	c	1

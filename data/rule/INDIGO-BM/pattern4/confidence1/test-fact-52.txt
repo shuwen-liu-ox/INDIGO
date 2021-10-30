@@ -1,0 +1,2 @@
+a	/people/ethnicity/geographic_distribution	a	1
+a	/people/ethnicity/geographic_distribution	c	1

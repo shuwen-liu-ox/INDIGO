@@ -1,0 +1,4 @@
+a	concept:subpartof	b
+b	concept:agentcompeteswithagent	a
+a	concept:subpartof	b
+b	concept:agentcompeteswithagent	c

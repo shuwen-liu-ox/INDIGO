@@ -1,0 +1,2 @@
+a	/location/country/form_of_government	a	1
+a	/location/country/form_of_government	c	1

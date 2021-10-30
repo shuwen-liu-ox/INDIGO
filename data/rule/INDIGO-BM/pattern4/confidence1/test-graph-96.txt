@@ -1,0 +1,4 @@
+a	/organization/organization/headquarters./location/mailing_address/citytown	b
+b	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	a
+a	/organization/organization/headquarters./location/mailing_address/citytown	b
+b	/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	c

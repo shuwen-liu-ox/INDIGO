@@ -1,0 +1,2 @@
+a	/people/person/spouse_s./people/marriage/location_of_ceremony	a	1
+a	/people/person/spouse_s./people/marriage/location_of_ceremony	c	1

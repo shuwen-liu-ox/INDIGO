@@ -1,0 +1,2 @@
+a	/music/artist/origin	a	1
+a	/music/artist/origin	c	1

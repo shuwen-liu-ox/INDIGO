@@ -1,0 +1,2 @@
+a	/music/record_label/artist	a	1
+a	/music/record_label/artist	c	1

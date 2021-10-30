@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/organization/organization/headquarters./location/mailing_address/country	a
+a	/dataworld/gardening_hint/split_to	b
+b	/organization/organization/headquarters./location/mailing_address/country	c

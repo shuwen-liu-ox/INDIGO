@@ -1,0 +1,4 @@
+a	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	b
+b	/location/hud_county_place/place	a
+a	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	b
+b	/location/hud_county_place/place	c

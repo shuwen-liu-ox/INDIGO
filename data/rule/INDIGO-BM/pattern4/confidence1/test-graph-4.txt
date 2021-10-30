@@ -1,0 +1,4 @@
+a	/education/educational_institution/campuses	b
+b	/organization/organization_member/member_of./organization/organization_membership/organization	a
+a	/education/educational_institution/campuses	b
+b	/organization/organization_member/member_of./organization/organization_membership/organization	c

@@ -1,0 +1,4 @@
+a	/dataworld/gardening_hint/split_to	b
+b	/location/administrative_division/first_level_division_of	a
+a	/dataworld/gardening_hint/split_to	b
+b	/location/administrative_division/first_level_division_of	c

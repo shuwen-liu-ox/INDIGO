@@ -1,0 +1,2 @@
+a	/base/biblioness/bibs_location/country	a	1
+a	/base/biblioness/bibs_location/country	c	1

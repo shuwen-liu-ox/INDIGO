@@ -1,0 +1,2 @@
+a	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	a	1
+a	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	c	1

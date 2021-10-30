@@ -1,0 +1,4 @@
+a	concept:mutualproxyfor	a
+a	concept:atlocation	a
+a	concept:mutualproxyfor	b
+a	concept:atlocation	b

@@ -1,0 +1,4 @@
+a	/location/location/time_zones	b
+b	/education/educational_institution/campuses	a
+a	/location/location/time_zones	b
+b	/education/educational_institution/campuses	c

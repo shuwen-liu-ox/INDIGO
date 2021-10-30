@@ -1,0 +1,4 @@
+a	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	b
+b	/location/us_county/county_seat	a
+a	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	b
+b	/location/us_county/county_seat	c

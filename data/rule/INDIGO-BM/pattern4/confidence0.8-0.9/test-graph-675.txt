@@ -1,0 +1,4 @@
+a	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	b
+b	/film/film/story_by	a
+a	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	b
+b	/film/film/story_by	c

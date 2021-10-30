@@ -1,0 +1,2 @@
+a	concept:animalsuchasinsect	a	1
+a	concept:animalsuchasinsect	b	1

@@ -1,0 +1,4 @@
+a	/organization/organization/headquarters./location/mailing_address/country	b
+b	/education/educational_institution/campuses	a
+a	/organization/organization/headquarters./location/mailing_address/country	b
+b	/education/educational_institution/campuses	c

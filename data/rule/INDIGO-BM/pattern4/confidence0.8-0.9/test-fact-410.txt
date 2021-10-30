@@ -1,0 +1,2 @@
+a	/olympics/olympic_games/participating_countries	a	1
+a	/olympics/olympic_games/participating_countries	c	1

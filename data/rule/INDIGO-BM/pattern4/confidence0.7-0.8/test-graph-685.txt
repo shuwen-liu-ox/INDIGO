@@ -1,0 +1,4 @@
+a	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	b
+b	/film/film/country	a
+a	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	b
+b	/film/film/country	c

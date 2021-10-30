@@ -1,0 +1,4 @@
+a	concept:athleteledsportsteam	a
+a	concept:coachesteam	a
+a	concept:athleteledsportsteam	b
+a	concept:coachesteam	b

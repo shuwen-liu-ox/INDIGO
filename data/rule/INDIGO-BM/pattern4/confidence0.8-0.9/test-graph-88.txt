@@ -1,0 +1,4 @@
+a	/base/locations/continents/countries_within	b
+b	/location/location/contains	a
+a	/base/locations/continents/countries_within	b
+b	/location/location/contains	c

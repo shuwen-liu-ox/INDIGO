@@ -1,0 +1,2 @@
+a	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	a	1
+a	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	c	1

@@ -1,0 +1,2 @@
+a	concept:arthropodcalledarthropod	a	1
+a	concept:arthropodcalledarthropod	b	1

@@ -1,0 +1,4 @@
+a	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a
+a	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c

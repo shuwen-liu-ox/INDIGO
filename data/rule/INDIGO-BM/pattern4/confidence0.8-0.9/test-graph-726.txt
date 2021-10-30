@@ -1,0 +1,4 @@
+a	/common/topic/webpage./common/webpage/category	b
+b	/sports/sports_team_location/teams	a
+a	/common/topic/webpage./common/webpage/category	b
+b	/sports/sports_team_location/teams	c

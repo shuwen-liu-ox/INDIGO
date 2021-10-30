@@ -1,0 +1,4 @@
+a	/organization/organization/headquarters./location/mailing_address/country	b
+b	/film/film/production_companies	a
+a	/organization/organization/headquarters./location/mailing_address/country	b
+b	/film/film/production_companies	c

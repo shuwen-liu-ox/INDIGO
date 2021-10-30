@@ -1,0 +1,4 @@
+a	/organization/organization_founder/organizations_founded	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	a
+a	/organization/organization_founder/organizations_founded	b
+b	/location/location/adjoin_s./location/adjoining_relationship/adjoins	c

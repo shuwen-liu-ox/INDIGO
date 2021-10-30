@@ -1,0 +1,4 @@
+a	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	b
+b	/location/country/capital	a
+a	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	b
+b	/location/country/capital	c

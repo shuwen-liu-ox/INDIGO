@@ -1,0 +1,2 @@
+a	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	a	1
+b	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	a	1

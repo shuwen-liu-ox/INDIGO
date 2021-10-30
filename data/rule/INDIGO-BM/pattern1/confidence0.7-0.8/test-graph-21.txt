@@ -1,0 +1,2 @@
+a	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	a
+a	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	b

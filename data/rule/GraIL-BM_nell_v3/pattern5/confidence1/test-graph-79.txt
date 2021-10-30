@@ -1,0 +1,4 @@
+a	concept:agentcontrols	a
+a	concept:agentbelongstoorganization	a
+a	concept:agentcontrols	b
+a	concept:agentbelongstoorganization	b

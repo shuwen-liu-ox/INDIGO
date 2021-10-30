@@ -1,0 +1,4 @@
+a	concept:synonymfor	a
+a	concept:arthropodcalledarthropod	a
+a	concept:synonymfor	b
+a	concept:arthropodcalledarthropod	b

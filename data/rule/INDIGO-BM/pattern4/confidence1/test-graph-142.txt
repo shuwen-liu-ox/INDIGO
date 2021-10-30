@@ -1,0 +1,4 @@
+a	/education/educational_institution/students_graduates./education/education/student	b
+b	/education/educational_institution/campuses	a
+a	/education/educational_institution/students_graduates./education/education/student	b
+b	/education/educational_institution/campuses	c

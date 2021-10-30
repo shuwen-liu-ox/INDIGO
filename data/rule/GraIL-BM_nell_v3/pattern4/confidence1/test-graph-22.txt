@@ -1,0 +1,4 @@
+a	concept:athletehomestadium	b
+b	concept:agentcollaborateswithagent	a
+a	concept:athletehomestadium	b
+b	concept:agentcollaborateswithagent	c

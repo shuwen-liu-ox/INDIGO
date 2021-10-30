@@ -1,0 +1,4 @@
+a	/award/award_winner/awards_won./award/award_honor/award_winner	a
+a	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	a
+a	/award/award_winner/awards_won./award/award_honor/award_winner	b
+a	/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	b

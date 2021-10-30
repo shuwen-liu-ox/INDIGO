@@ -1,0 +1,4 @@
+a	concept:mutualproxyfor	a
+a	concept:agentcollaborateswithagent	a
+a	concept:mutualproxyfor	b
+a	concept:agentcollaborateswithagent	b

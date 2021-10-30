@@ -1,0 +1,4 @@
+a	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	b
+b	/sports/sports_league/teams./sports/sports_league_participation/team	a
+a	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	b
+b	/sports/sports_league/teams./sports/sports_league_participation/team	c

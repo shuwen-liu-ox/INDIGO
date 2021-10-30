@@ -1,0 +1,4 @@
+a	/film/actor/dubbing_performances./film/dubbing_performance/language	b
+b	/award/award_winning_work/awards_won./award/award_honor/award_winner	a
+a	/film/actor/dubbing_performances./film/dubbing_performance/language	b
+b	/award/award_winning_work/awards_won./award/award_honor/award_winner	c

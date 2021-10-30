@@ -1,0 +1,4 @@
+a	/sports/sports_team/roster./american_football/football_roster_position/position	a
+a	/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	a
+a	/sports/sports_team/roster./american_football/football_roster_position/position	b
+a	/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	b

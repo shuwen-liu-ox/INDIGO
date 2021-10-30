@@ -1,0 +1,4 @@
+a	concept:atlocation	a
+a	concept:proxyfor	a
+a	concept:atlocation	b
+a	concept:proxyfor	b

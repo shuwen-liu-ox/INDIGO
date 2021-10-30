@@ -1,0 +1,4 @@
+a	/education/university/fraternities_and_sororities	b
+b	/education/educational_institution/campuses	a
+a	/education/university/fraternities_and_sororities	b
+b	/education/educational_institution/campuses	c

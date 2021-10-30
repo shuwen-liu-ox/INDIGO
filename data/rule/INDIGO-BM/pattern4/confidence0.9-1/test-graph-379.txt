@@ -1,0 +1,4 @@
+a	/sports/sports_team/sport	b
+b	/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	a
+a	/sports/sports_team/sport	b
+b	/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	c

@@ -1,0 +1,4 @@
+a	/base/biblioness/bibs_location/country	b
+b	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	a
+a	/base/biblioness/bibs_location/country	b
+b	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	c
